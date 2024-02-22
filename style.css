@@ -49,3 +49,12 @@ button{
     border: 3px;
     border-color:palevioletred;
 }
+
+table, th, td{
+    color:palevioletred;
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif;
+    border-color: palevioletred;
+    border: 2px solid;
+    
+}
