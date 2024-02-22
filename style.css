@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+
+header{
+    background-color: gray;
+    color:white;
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+font-family:Calibri ;
+}
+
+h1{
+    color:white;
+}
+
+h2{
+    color:white;
+    text-align: center;
+}
+
+ol{
+    color: palevioletred;
+}
+
+p{
+    color: palevioletred;
+    font-size: 20px;
+}
+
+li{
+    color: palevioletred;
+    font-size: 20px;
+}
+
+button{
+    background-color:rgb(41, 39, 39);
+    color:palevioletred;
+    text-align: center;
+    font-size: 18px;
+    padding: 18px 34px;
+    font-weight:bold;
+    display: inline-block;
+    border: 3px;
+    border-color:palevioletred;
+}
